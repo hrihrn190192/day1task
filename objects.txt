@@ -1,0 +1,6 @@
+In JavaScript, objects are reference data-types that can hold any combination of primitive data-types or other objects. An object is a collection of named values, or properties, that have state and behavior (i.e. methods).
+
+JavaScript objects are represented internally as a collection of properties and methods, where each property has a name and a value. The properties are stored in a hash table, and the methods are stored in an array.
+The names of the properties are strings, and the values can be any type of data, including numbers, strings, arrays, and other objects. The methods are functions that are called to perform specific actions on the object.
+
+Objects are an important part of JavaScript, and they are used to represent a wide variety of data, from simple data structures to complex user interfaces
